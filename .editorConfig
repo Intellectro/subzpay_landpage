@@ -1,0 +1,5 @@
+root = true;
+
+[*.{vue}]
+tab_size = 4;
+tab_indent = 4;

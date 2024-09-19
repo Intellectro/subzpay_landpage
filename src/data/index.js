@@ -1,0 +1,11 @@
+export {default as MenuList} from "./menu.js";
+export {default as CardContents} from "./cardcontent.js";
+export {default as services} from "./services.js";
+export {default as pricingContent} from "./pricing.js";
+export {default as chooseContent} from "./choose.js";
+export {default as descContent} from "./desc.js";
+export {default as socials} from "./socials.js";
+export {default as aboutServices} from "./aboutservices.js";
+export {default as FaqData} from "./faq.js";
+export {default as contactlinks} from "./contactlinks.js";
+export {default as terms} from "./termscontent.js";
